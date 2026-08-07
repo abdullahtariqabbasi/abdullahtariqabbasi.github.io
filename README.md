@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Abdullah Tariq Abbasi — Portfolio
 
 A fully responsive personal portfolio built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**, themed **"Emerald Matrix"** (near-black + emerald/mint, matrix-rain background, CRT scanlines). Showcases 11 shipped projects spanning Computer Vision, Generative AI, Agentic AI, and full-stack web platforms.
@@ -150,3 +151,7 @@ No heavy UI library — every visual is hand-built for a unique look and a small
 ## 📄 License
 
 Personal portfolio content © Abdullah Tariq Abbasi. Code structure is yours to adapt and reuse.
+=======
+# abdullahtariqabbasi.github.io
+Portfolio
+>>>>>>> e5c571b776e8b80e4ca93fb177b4fab85060efa2
